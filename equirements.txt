@@ -1,0 +1,1 @@
+Используемые модули : Discord,youtube_dl,random,aiohttp
